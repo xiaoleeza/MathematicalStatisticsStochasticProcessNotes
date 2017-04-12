@@ -1,0 +1,2 @@
+# MathematicalStatisticsStochasticProcessNotes
+数理统计与随机过程课堂笔记
